@@ -40,3 +40,8 @@ $ rails server
 ```
 
 詳しくは、[*Ruby on Rails チュートリアル*](http://railstutorial.jp/)を参考にしてください。
+
+
+
+続きは以下から
+https://railstutorial.jp/chapters/static_pages?version=5.0#sec-getting_started_with_testing
